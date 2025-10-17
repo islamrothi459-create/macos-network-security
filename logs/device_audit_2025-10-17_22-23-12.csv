@@ -1,0 +1,30 @@
+Timestamp,Type,Device,State,IP,MAC,Driver
+2025-10-17_22-23-12,Network,lo,unknown,127.0.0.1/8,00:00:00:00:00:00,
+2025-10-17_22-23-12,Network,enx00e04c5c2240,up,192.168.0.232/24,00:e0:4c:5c:22:40,r8152
+2025-10-17_22-23-12,Network,enx6a83cb939033,up,172.20.10.3/28,6a:83:cb:93:90:33,ipheth
+
+SSID,SIGNAL
+
+Bluetooth Devices:
+[1;39mInvalid command in menu main: paired-devices[0m
+[1;39m
+Use "help" for a list of available commands in a menu.
+Use "menu <submenu>" if you want to enter any submenu.
+Use "back" if you want to return to menu main.[0m
+No paired Bluetooth devices
+
+USB and PCI Devices:
+Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 001 Device 002: ID 05e3:0610 Genesys Logic, Inc. Hub
+Bus 001 Device 003: ID 04f2:b725 Chicony Electronics Co., Ltd Integrated Camera
+Bus 001 Device 004: ID 1a86:8095 QinHeng Electronics USB Hub
+Bus 001 Device 005: ID 413c:301a Dell Computer Corp. Dell MS116 Optical Mouse
+Bus 001 Device 006: ID 05ac:12a8 Apple, Inc. iPhone 5/5C/5S/6/SE/7/8/X/XR
+Bus 002 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
+Bus 002 Device 002: ID 05e3:0626 Genesys Logic, Inc. Hub
+Bus 002 Device 003: ID 0bda:8153 Realtek Semiconductor Corp. RTL8153 Gigabit Ethernet Adapter
+Bus 002 Device 009: ID 1058:25e1 Western Digital Technologies, Inc. My Passport (WD20NMVW)
+Bus 003 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 003 Device 002: ID 0951:1666 Kingston Technology DataTraveler 100 G3/G4/SE9 G2/50 Kyson
+Bus 003 Device 003: ID 0bda:b00c Realtek Semiconductor Corp. Bluetooth Radio
+Bus 004 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
