@@ -1,0 +1,14 @@
+Timestamp,Interface,State,IP Address,MAC Address,Type
+2025-10-17_22-18-44,lo,unknown,127.0.0.1/8,00:00:00:00:00:00,
+2025-10-17_22-18-44,enx00e04c5c2240,up,192.168.0.232/24,00:e0:4c:5c:22:40,r8152
+2025-10-17_22-18-44,enx6a83cb939033,up,172.20.10.3/28,6a:83:cb:93:90:33,ipheth
+
+Bluetooth Devices:
+[1;39mInvalid command in menu main: paired-devices[0m
+[1;39m
+Use "help" for a list of available commands in a menu.
+Use "menu <submenu>" if you want to enter any submenu.
+Use "back" if you want to return to menu main.[0m
+Bluetooth not available
+
+Wi-Fi Networks (if available):
